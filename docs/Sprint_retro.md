@@ -2,7 +2,7 @@
 (show file impediment https://docs.google.com/spreadsheets/d/1j3ORgiVq1nAi4r8A0Vb4WIC3Qo-hV_16tyBRWNXEE4A/edit?gid=2043069769#gid=2043069769)
 
 **Đặng Xuân Huy (Scrum Master)**:  
-“Chào mọi người, hôm nay là buổi Sprint Retrospective, chúng ta sẽ cùng nhìn lại sprint vừa rồi để cải tiến quy trình. Câu hỏi đầu tiên là **'Điều gì đã diễn ra tốt?'**. Tín, bạn có thể chia sẻ một chút không?”
+“Chào mọi người, hôm nay là buổi Sprint Retrospective, chúng ta sẽ cùng nhìn lại sprint vừa rồi để cải tiến quy trình. Ở đây e có hai Câu hỏi,..., đầu tiên là **'Điều gì như các snh chị ở đây thấy ở sprint 1 có phần nào được đánh giá cao ?'**. Tín, bạn có thể chia sẻ một chút không?”
 
 
 **Tôn Trọng Tín (Tech Lead)**:  
@@ -14,7 +14,7 @@
 
 
 **Đặng Xuân Huy (Scrum Master)**:  
-“Đúng vậy. Vậy đến câu hỏi thứ hai: **'Điều gì có thể cải thiện?'**. Mình nghĩ lỗi build liên quan đến VNPay là một vấn đề lớn. Tín, bạn nghĩ giải pháp nào là phù hợp?”
+“À. Vậy đến câu hỏi thứ hai: **'Dựa vào đó có thể cải thiện gì?'**. E nghĩ lỗi build liên quan đến VNPay là một vấn đề lớn. Tín, a nghĩ giải pháp nào là phù hợp?”
 
 
 **Tôn Trọng Tín (Tech Lead)**:  
@@ -22,7 +22,7 @@
 
 
 **Đặng Xuân Huy (Scrum Master)**:  
-“Tốt. Vậy mình sẽ đảm bảo xử lý vấn đề VNPay trong sprint tiếp theo. Cảm ơn mọi người đã tham gia!”
+“À vâng. Vậy là mình sẽ đảm bảo xử lý vấn đề VNPay trong sprint tiếp theo. Cảm ơn mọi người đã tham gia!”
  
 ---
 **Kết thúc buổi họp**
